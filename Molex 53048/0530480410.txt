@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-31012024-079210";"";
+"REFERENCE";"530480410";"";
+"TraceParts.PartTitle";"PicoBlade";"";
+"TraceParts.InstanceId";"90-31012024-0792102N3XX9WWY2MK673V115V3T3RA";"";
+"SUPPLIER";"Molex";"";
+"DESIGN";"1.25mm Pitch, PicoBlade PCB Header, Single Row, Right-Angle, Through Hole, Tin (Sn) Plating, Friction Lock,  4 Circuits, Tray, 2.30mm PC Tail  Length";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.4";"";
